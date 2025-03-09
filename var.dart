@@ -1,3 +1,3 @@
 void main() {
-  String name = 'adsada';
+  var name;
 }
