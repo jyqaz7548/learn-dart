@@ -1,4 +1,4 @@
 void main() {
-  final name = 'nico'; 
-  name = 'jyqaz';
+  late final String name;
+  name = 'nico';
 }
