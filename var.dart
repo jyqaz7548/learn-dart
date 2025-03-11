@@ -1,3 +1,4 @@
 void main() {
-  const name = 'nico';
+  String? name = 'nico';
+  name = null;
 }
