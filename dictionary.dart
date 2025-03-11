@@ -1,3 +1,5 @@
 void main() {
-  Map<int, bool> player = {1: true, 2: false, 3: true};
+  Map<List<int>, bool> player = {
+    [1, 2, 3, 4, 5]: true,
+  };
 }
